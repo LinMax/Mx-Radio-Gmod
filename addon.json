@@ -1,0 +1,11 @@
+{
+	"title"		:	"Mx Radio",
+	"type"		:	"tool",
+	"tags"		:	[ "fun", "roleplay" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
